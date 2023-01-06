@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sitri](https://github.com/Elastoo-Team/sitri)
 
-- 🌱 I’m currently learning **Haxe**
+- 🌱 I’m currently learning **Nim**
 
 - 👯 I’m looking to collaborate on **Any hackaton**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://egnod.dev](https://egnod.dev)
 
-- 💬 Ask me about **Python, GraphQL**
+- 💬 Ask me about **Python, miltech**
 
 - 📫 How to reach me **internal@egnod.dev**
 
