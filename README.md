@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **internal@egnod.dev**
 
-- 📄 Know about my experiences [https://egnod.keybase.pub/resume.pdf](https://egnod.keybase.pub/resume.pdf)
+- 📄 Know about my experiences [CV](https://storage.yandexcloud.net/egnod.dev/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
